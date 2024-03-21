@@ -60,4 +60,3 @@ while True:
  elif done == "n":
    break
 
-print("Thank you for playing")
